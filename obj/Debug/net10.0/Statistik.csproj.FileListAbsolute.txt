@@ -1,0 +1,14 @@
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\bin\Debug\net10.0\Statistik.exe
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\bin\Debug\net10.0\Statistik.deps.json
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\bin\Debug\net10.0\Statistik.runtimeconfig.json
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\bin\Debug\net10.0\Statistik.dll
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\bin\Debug\net10.0\Statistik.pdb
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.AssemblyInfoInputs.cache
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.AssemblyInfo.cs
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.csproj.CoreCompileInputs.cache
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.dll
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\refint\Statistik.dll
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.pdb
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\Statistik.genruntimeconfig.cache
+C:\Users\Ludvig\OneDrive\Documents\GitHub\Statistik\obj\Debug\net10.0\ref\Statistik.dll

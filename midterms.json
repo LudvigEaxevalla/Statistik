@@ -1,0 +1,25 @@
+{
+    "elections":[
+        {"year": 1946, "president": "Truman", "change": -55},
+        {"year": 1950, "president": "Truman", "change": -29},
+        {"year": 1954, "president": "Eisenhower", "change": -18},
+        {"year": 1958, "president": "Eisenhower", "change": -47},
+        {"year": 1962, "president": "Kennedy", "change": -4},
+        {"year": 1966, "president": "Johnson", "change": -47},
+        {"year": 1970, "president": "Nixon", "change": -12},
+        {"year": 1974, "president": "Ford", "change": -43},
+        {"year": 1978, "president": "Carter", "change": -11},
+        {"year": 1982, "president": "Reagan", "change": -28},
+        {"year": 1986, "president": "Reagan", "change": -5},
+        {"year": 1990, "president": "Bush", "change": -8},
+        {"year": 1994, "president": "Clinton", "change": -53},
+        {"year": 1998, "president": "Clinton", "change": 5},
+        {"year": 2002, "president": "Bush", "change": 6},
+        {"year": 2006, "president": "Bush", "change": -30},
+        {"year": 2010, "president": "Obama", "change": -63},
+        {"year": 2014, "president": "Obama", "change": -13},
+        {"year": 2018, "president": "Trump", "change": -40},
+        {"year": 2022, "president": "Biden", "change": -9},
+        {"year": 2026, "president": "Trump", "change": -62}
+    ]
+}

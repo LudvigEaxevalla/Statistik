@@ -1,0 +1,45 @@
+{
+    "Elias Pettersson": [
+        {"year": 19, "GP": 71, "Points": 66, "ExpectedPoints": 76},
+        {"year": 20, "GP": 68, "Points": 66, "ExpectedPoints": 80, "Change": 4},
+        {"year": 21, "GP": 26, "Points": 21, "ExpectedPoints": 66, "Change": -14},
+        {"year": 22, "GP": 80, "Points": 68, "ExpectedPoints":  70, "Change": 4},
+        {"year": 23, "GP": 80, "Points": 102, "ExpectedPoints": 105, "Change": 35},
+        {"year": 24, "GP": 82, "Points": 89, "ExpectedPoints": 89, "Change": -16}, 
+        {"year": 25, "GP": 64, "Points": 45, "ExpectedPoints": 58, "Change": -31},
+        {"year": 26, "GP": 74, "Points": 51, "ExpectedPoints": 57, "Change": -1},
+        {"year": 27, "GP": 20, "Points": 20, "ExpectedPoints": 82, "Change": 25}
+    ],
+    "Leo Carlsson": [
+        {"year": 24, "GP": 55, "Points": 29, "ExpectedPoints": 43},
+        {"year": 25, "GP": 76, "Points": 45, "ExpectedPoints": 49, "Change": 6},
+        {"year": 26, "GP": 70, "Points": 67, "ExpectedPoints": 78, "Change": 29},
+        {"year": 27, "GP": 18, "Points": 26, "ExpectedPoints": 118, "Change": 40}
+    ],
+    "Lucas Raymond": [
+        {"year": 22, "GP": 82, "Points": 57},
+        {"year": 23, "GP": 74, "Points": 45, "ExpectedPoints": 50, "Change": 4},
+        {"year": 24, "GP": 82, "Points": 72, "ExpectedPoints": 72, "Change": 22},
+        {"year": 25, "GP": 82, "Points": 80, "ExpectedPoints": 80, "Change": 8},
+        {"year": 26, "GP": 80, "Points": 76, "ExpectedPoints": 78, "Change": -2},
+        {"year": 27, "GP": 19, "Points": 18, "ExpectedPoints": 78, "Change": 0}
+    ],
+    "Mika Zibanejad": [
+        {"year": 12, "GP": 9, "Points": 1, "ExpectedPoints": 9},
+        {"year": 13, "GP": 42, "Points": 20, "ExpectedPoints": 39, "Change": 30},
+        {"year": 14, "GP": 69, "Points": 33, "ExpectedPoints": 39, "Change": 0},
+        {"year": 15, "GP": 80, "Points": 46, "ExpectedPoints": 50, "Change": 11},
+        {"year": 16, "GP": 81, "Points": 51, "ExpectedPoints": 52, "Change": 2},
+        {"year": 17, "GP": 56, "Points": 37, "ExpectedPoints": 54, "Change": 2},
+        {"year": 18, "GP": 72, "Points": 47, "ExpectedPoints": 54, "Change": 0},
+        {"year": 19, "GP": 82, "Points": 74, "ExpectedPoints": 74, "Change": 20},
+        {"year": 20, "GP": 57, "Points": 75, "ExpectedPoints": 108, "Change": 34},
+        {"year": 21, "GP": 56, "Points": 50, "ExpectedPoints": 73, "Change": -35},
+        {"year": 22, "GP": 81, "Points": 81, "ExpectedPoints": 82, "Change": 9},
+        {"year": 23, "GP": 82, "Points": 91, "ExpectedPoints": 91, "Change": 9},
+        {"year": 24, "GP": 81, "Points": 72, "ExpectedPoints": 73, "Change": -18},
+        {"year": 25, "GP": 82, "Points": 62, "ExpectedPoints": 62, "Change": -11},
+        {"year": 26, "GP": 81, "Points": 78, "ExpectedPoints": 79, "Change": 17},
+        {"year": 27, "GP": 20, "Points": 18, "ExpectedPoints": 74, "Change": -5}
+    ]
+}
